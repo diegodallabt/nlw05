@@ -1,6 +1,6 @@
-# devquiz
+# DevQuiz
 
-A new Flutter application.
+Desenvolvimento de um aplicativo para aprendizagem de outras linguagens em Flutter.
 
 ## Getting Started
 
